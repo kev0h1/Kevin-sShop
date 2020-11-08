@@ -31,3 +31,5 @@ C:\Users\Kevin Maingi\source\repos\BethanysPieShopAspNet\BethanysPieShopAspNet\o
 C:\Users\Kevin Maingi\source\repos\BethanysPieShopAspNet\BethanysPieShopAspNet\obj\Debug\netcoreapp3.0\BethanysPieShopAspNet.csproj.CopyComplete
 C:\Users\Kevin Maingi\source\repos\BethanysPieShopAspNet\BethanysPieShopAspNet\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Kevin Maingi\source\repos\BethanysPieShopAspNet\BethanysPieShopAspNet\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Kevin Maingi\source\repos\BethanysPieShopAspNet\BethanysPieShopAspNet\bin\Debug\netcoreapp3.0\libman.json
+C:\Users\Kevin Maingi\source\repos\BethanysPieShopAspNet\BethanysPieShopAspNet\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
