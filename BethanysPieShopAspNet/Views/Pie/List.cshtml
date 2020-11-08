@@ -1,0 +1,12 @@
+﻿@model BethanysPieShopAspNet.ViewModels.PiesListViewModel
+
+
+<h1>@Model.CurrentCategory</h1>
+@foreach (var pie in Model.Pies)
+{
+    <div>
+        <h2>@pie.Name</h2>
+        <h2>@pie.Price.ToString("c")</h2>
+        <h2>@pie.Category.CategoryName</h2>
+    </div>
+}
